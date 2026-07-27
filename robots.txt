@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ayty9w.vapeland.co.nz/sitemap.xml
